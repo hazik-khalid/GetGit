@@ -9,7 +9,7 @@ const app = new App({
 });
 
 app.command('/gitget', async ({ command, ack, say }) => {
-  var userData; // global variable
+  var userData; 
   var uname;
   var link;
 
@@ -38,3 +38,4 @@ app.command('/gitget', async ({ command, ack, say }) => {
   await app.start(process.env.PORT || 3000);
   console.log(`running on port ${process.env.PORT || 3000}!`);
 })();
+
