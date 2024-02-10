@@ -36,5 +36,5 @@ app.command('/gitget', async ({ command, ack, say }) => {
 
 (async () => {
   await app.start(process.env.PORT || 3000);
-  console.log(` Bot is running on port ${process.env.PORT || 3000}!`);
+  console.log(`running on port ${process.env.PORT || 3000}!`);
 })();
