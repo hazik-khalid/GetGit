@@ -1,0 +1,20 @@
+# netlify.toml
+
+[build]
+  # The directory where the build command will run
+  base = ""
+
+  # The command Netlify will use to build your site
+  command = "npm run build"  # You can adjust this based on your project's build script
+
+  # The publish directory is the directory with the final built files
+  publish = ""  # Update with your actual publish directory
+
+[[plugins]]
+  # Add plugins configuration here, if needed
+
+[dev]
+  command = "npm run dev"  # Adjust this according to your local development script
+  functions = ""  # Update with the path to your serverless functions directory, if applicable
+
+# Add other configuration settings as needed
