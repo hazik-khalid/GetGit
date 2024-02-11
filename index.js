@@ -1,11 +1,10 @@
 const { App } = require('@slack/bolt');
-require('dotenv').config();
 
 const app = new App({
-  token: 'xoxb-6612383026307-6613327996995-xF1pahXQQd1vxCnCsfMBsW7b',
+  token: 'xoxb-6612383026307-6613327996995-f7wp87QZk69bj08gO0VV6g6R',
   signingSecret: '4792af9566aa1f2024489a9219deaf25',
   socketMode: true,
-  appToken: "xapp-1-A06HYCX5AUV-6607062783206-2d858b83952cd38ab8cbc273cd0d01d37ad826f4c5a7de615e0855c959019322",
+  appToken: "xapp-1-A06HYCX5AUV-6620368149843-2d14385258ae06cbed548b2efc08a6cb8918d304c353e91474a35d4827100a3c",
 });
 
 app.command('/gitget', async ({ command, ack, say }) => {
