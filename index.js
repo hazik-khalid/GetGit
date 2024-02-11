@@ -1,11 +1,14 @@
 const { App } = require('@slack/bolt');
 
 const app = new App({
-  token: 'xoxb-6612383026307-6613327996995-f7wp87QZk69bj08gO0VV6g6R',
+  token: "xoxb-6612383026307-6613327996995-JWCJ7fDCO1BIqFeYd63F0K0R",
   signingSecret: '4792af9566aa1f2024489a9219deaf25',
   socketMode: true,
-  appToken: "xapp-1-A06HYCX5AUV-6620368149843-2d14385258ae06cbed548b2efc08a6cb8918d304c353e91474a35d4827100a3c",
+  appToken: 'xapp-1-A06HYCX5AUV-6643291681616-3d2e1e70f6e7c4fe922059969781e572d690639d827c8f431afd3b3feae2a747'
 });
+
+
+
 
 app.command('/gitget', async ({ command, ack, say }) => {
   var userData;
