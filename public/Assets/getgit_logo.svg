@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="getgit_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#a1a1a1"
+     borderopacity="0.24705882"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#e5e5e5"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     showborder="true"
+     inkscape:zoom="0.76969697"
+     inkscape:cx="340.3937"
+     inkscape:cy="307.26378"
+     inkscape:window-width="1450"
+     inkscape:window-height="1033"
+     inkscape:window-x="565"
+     inkscape:window-y="538"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1230" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient674">
+      <stop
+         style="stop-color:#ff7f2a;stop-opacity:1"
+         offset="0"
+         id="stop670" />
+      <stop
+         style="stop-color:#d45500;stop-opacity:1"
+         offset="1"
+         id="stop672" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient674"
+       id="linearGradient884"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.32129829,0,0,0.32129829,31.323648,35.502692)"
+       x1="38.769341"
+       y1="101.48087"
+       x2="18.959301"
+       y2="82.643105" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient674"
+       id="linearGradient1160"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.32129829,0,0,0.32129829,18.819742,20.291754)"
+       x1="38.769341"
+       y1="101.48087"
+       x2="18.959301"
+       y2="82.643105" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient674"
+       id="linearGradient1201"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.32129829,0,0,0.32129829,18.819741,63.088629)"
+       x1="38.769341"
+       y1="101.48087"
+       x2="18.959301"
+       y2="82.643105" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffe6d5;stroke-width:0.264583"
+       id="rect1346"
+       width="136.12498"
+       height="123.74999"
+       x="0.40600085"
+       y="11.1317"
+       ry="0.171875"
+       transform="translate(-14.671626,-22.131699)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.3333px;font-family:Merriweather;-inkscape-font-specification:Merriweather;fill:#ff6600;stroke-width:0.264583"
+       x="28.510962"
+       y="77.538177"
+       id="text236"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Merriweather;-inkscape-font-specification:Merriweather;fill:#ff6600;stroke-width:0.264583"
+         x="28.510962"
+         y="77.538177">Git</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Merriweather;-inkscape-font-specification:Merriweather;fill:#d45500;stroke-width:0.264583"
+       x="38.687057"
+       y="41.073608"
+       id="text290"><tspan
+         sodipodi:role="line"
+         id="tspan288"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Merriweather;-inkscape-font-specification:Merriweather;fill:#d45500;stroke-width:0.264583"
+         x="38.687057"
+         y="41.073608">Get</tspan></text>
+    <g
+       id="g1230"
+       inkscape:label="Branch"
+       transform="translate(-14.671626,-22.131699)">
+      <rect
+         style="fill:#aa4400;stroke-width:0.264583"
+         id="rect940"
+         width="2.40625"
+         height="40.734375"
+         x="26.599371"
+         y="51.820312"
+         ry="0.171875" />
+      <path
+         style="fill:#aa4400;stroke-width:0.264583"
+         d="m 39.074478,60.997912 c 0,0 -0.05694,4.485164 -0.34375,5.585936 -0.286814,1.100772 -1.11719,3.48047 -3.4375,3.996095 -2.320311,0.515623 -4.898438,1.074219 -6.273438,3.996094 -1.375,2.921873 -0.08594,4.597654 -0.08594,4.597654 0,0 1.474419,-3.919974 3.695851,-5.245701 2.045563,-1.220771 3.770206,-1.014176 5.375309,-2.096757 2.014729,-1.358857 2.217812,-3.2521 2.568551,-4.244974 0.532692,-1.507951 0.606385,-6.502409 0.606385,-6.502409 z"
+         id="path1052"
+         sodipodi:nodetypes="czsscssscc" />
+      <g
+         id="g1215"
+         transform="matrix(1.0684541,0,0,1.0684541,-3.3917136,-11.0926)">
+        <circle
+           style="fill:url(#linearGradient884);fill-opacity:1;stroke-width:0.0850103"
+           id="path554-1"
+           cx="40.734375"
+           cy="65.140625"
+           r="3.7096224" />
+        <circle
+           style="fill:#803300;stroke-width:0.135847"
+           id="path556-1"
+           cx="40.734375"
+           cy="65.140625"
+           r="2.464802" />
+      </g>
+      <g
+         id="g1207"
+         transform="matrix(1.0684541,0,0,1.0684541,-2.3604636,-4.8827036)">
+        <circle
+           style="fill:url(#linearGradient1160);fill-opacity:1;stroke-width:0.0850103"
+           id="path554-1-2"
+           cx="28.230469"
+           cy="49.929688"
+           r="3.7096224" />
+        <circle
+           style="fill:#803300;stroke-width:0.135847"
+           id="path556-1-6"
+           cx="28.230469"
+           cy="49.929688"
+           r="2.464802" />
+      </g>
+      <g
+         id="g1211"
+         transform="matrix(1.0684541,0,0,1.0684541,-2.3604636,-4.8827036)">
+        <circle
+           style="fill:url(#linearGradient1201);fill-opacity:1;stroke-width:0.0850103"
+           id="path554-1-2-1"
+           cx="28.230469"
+           cy="92.726562"
+           r="3.7096224" />
+        <circle
+           style="fill:#803300;stroke-width:0.135847"
+           id="path556-1-6-4"
+           cx="28.230469"
+           cy="92.726562"
+           r="2.464802" />
+      </g>
+    </g>
+  </g>
+</svg>
