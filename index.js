@@ -7,9 +7,6 @@ const app = new App({
   appToken: 'xapp-1-A06HYCX5AUV-6622990477636-8e0d9e9aeade6ffba21d897b1cfc5cac153b85bc2a2ff00d92f390f583ec830f'
 });
 
-
-
-
 app.command('/gitget', async ({ command, ack, say }) => {
   var userData;
   var uname;
