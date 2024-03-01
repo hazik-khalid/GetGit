@@ -4,4 +4,4 @@
   /GitGet [username]
   '''
 
-website:- https://hazik-khalid.github.io/GetGit/public/
+website:- https://hazik-khalid.github.io/GetGit/public
