@@ -1,4 +1,4 @@
-# GetGit 
+# GetGit Slack  
 GetGit is a Slack bot designed to fetch GitHub user information such as repositories, email addresses, and more directly from any Slack channel. 
 
 ## Usage
